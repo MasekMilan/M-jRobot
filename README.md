@@ -11,7 +11,7 @@ Můj robot by byl __dron__
 - mohl by také být připojen k více mobilním zařízením najednou a fungovat pro celou rodinu.
 
 ## Konstrukce
-- musel být trochu robustnější, jelikož klasický dron by neusl příliš těžké objekty
+- musel být trochu robustnější, jelikož klasický dron by neunesl příliš těžké objekty
 - na vrchní straně by měl 4 vrtule
     - vrtule by byly poměrně široké oproti klasickým
 - konstrukce by byla pevná, ale zároveň lehká, aby nebyl takový nápor na vrtule.
