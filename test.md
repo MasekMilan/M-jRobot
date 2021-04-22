@@ -1,2 +1,0 @@
-# MůjRobot
-Popis mého robota
