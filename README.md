@@ -1,2 +1,2 @@
-# M-jRobot
+# MůjRobot
 Popis mého robota
