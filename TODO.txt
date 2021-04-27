@@ -1,1 +1,9 @@
-Soubor prací, které je třeba udělat, aby robot mohl spatřit světlo světa
+Soubor prací, které je třeba udělat, aby robot mohl spatřit světlo světa:
+
+Pro samotnou výrobu robota jsou třeba jednotlivé díly.
+Je třeba vyrobit: vrtule, motor, konstrukci, kleště, software pro komunikaci s dronem.
+Další součástky jako třeba LIDARy, kamery a další senzory se dají snadno dokoupit.
+Prve se musí vytvořit software a vše dobře otestovat, aby byla jistota, že dron funguje, jak má.
+Následně je třeba sehnat tým lidí a prostor, kde by se robot mohl vyrábět a vyvíjet.
+Samotné sestavení robota není tak složité. 
+Nejdelší čas však zabere vývoj softwaru a dolaďování chyb.
